@@ -1,3 +1,3 @@
 # Java-Project-
-Project Java Kelas LEC
-Sistem Pembayaran Kasir Laundry Kiloan
+Project Java Kelas LEC Kelompok 4
+Sistem Laundry Kiloan
